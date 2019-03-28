@@ -1,5 +1,5 @@
 # FishFight
-First attempt at lobGDX Android game (excluding a tutorial)
+First attempt at libGDX Android game (excluding a tutorial)
 
 App Store link: https://play.google.com/store/apps/details?id=com.mygdx.fishFightGame 
 (free, no ads)
