@@ -4,6 +4,8 @@ First attempt at libGDX Android game (excluding a tutorial)
 App Store link: https://play.google.com/store/apps/details?id=com.mygdx.fishFightGame 
 (free, no ads)
 
+Also playable here: www.jamesthompson.tech/FishFight
+
 Throughout the code I was at various stages of learning Java, libGdx and Android Studio, so some questionable (wrong) choices are made. 
 A lot of things in the PlayState class should have been methods, and some (the penguins) would have worked better as new classes. 
 
